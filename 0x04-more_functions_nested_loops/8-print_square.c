@@ -13,11 +13,11 @@ void print_square(int n)
 
 	while (i < n && n > 0)
 	{
-		ii = 0;
+		i1 = 0;
 		while (i1 < n)
 		{
 			_putchar('#');
-			ii++;
+			i1++;
 		}
 
 		_putchar('\n');
