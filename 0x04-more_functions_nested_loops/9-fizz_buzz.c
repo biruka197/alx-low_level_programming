@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+ * main -fiz_buzz
+ * return: void.
+ * */
 int main(void)
 {
 
