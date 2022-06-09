@@ -1,10 +1,13 @@
 #include "main.h"
 #include <stdio.h>
+
 /*
  * print_trianle -check for digit
+ *
  * return:void
- * 
+ *
  */
+
 
 void print_triangle(int size)
 {
