@@ -1,8 +1,9 @@
-#include <stdio.h>
-/*
- * main -fiz_buzz
- * return: void.
- * */
+/**
+ * main - check the code for ALX School students.
+ *
+ * Return: void.
+ */
+
 int main(void)
 {
 
