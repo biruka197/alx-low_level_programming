@@ -1,2 +1,3 @@
 positive_or_negative();
-print_remaining_days();
+void print_remaining_days(int month, int day, int year);
+
