@@ -1,0 +1,4 @@
+git add .
+git commit -m "0-print_list.c"
+git push
+
